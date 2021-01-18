@@ -9,6 +9,8 @@
 ## FERAGATNAME
 > Ne yaptığın umrumda değil. Dilersen projeyi al başkasına sat, dilersen de projeye kendi projen gibi lanse edip insanları farklı yere sürükle. Bu proje zaten kolay bir proje. Özel olarak **[Serendia Squad](https://discord.gg/K44EZWA4kQ)**. için yapıldı. Sevgilerle!
 
+
+
 # ENGLISH
 > Hello! I am Sude ALAÇATI.  I have developed this infrastructure specifically for Serendia Squad for your use. Many errors may occur in the infrastructure. Please don't hesitate to let me know about them. Our Infrastructure Uses MongoDB. 
 

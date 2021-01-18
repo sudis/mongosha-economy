@@ -9,12 +9,10 @@
 ## FERAGATNAME
 > Ne yaptığın umrumda değil. Dilersen projeyi al başkasına sat, dilersen de projeye kendi projen gibi lanse edip insanları farklı yere sürükle. Bu proje zaten kolay bir proje. Özel olarak **[Serendia Squad](https://discord.gg/K44EZWA4kQ)**. için yapıldı. Sevgilerle!
 
-
-
 # ENGLISH
-> Hello! I am Sude ALAÇATI.  I have developed this infrastructure specifically for Serendia Squad for your use. Many errors may occur in the infrastructure. Please don't hesitate to let me know about them. Our Infrastructure Uses MongoDB. 
+> Hello! I am Sude ALAÇATI.  I have developed this infrastructure specifically for **[Serendia Squad](https://discord.gg/K44EZWA4kQ)** for your use. Many errors may occur in the infrastructure. Please don't hesitate to let me know about them. Our Infrastructure Uses MongoDB. 
 
-## Features
+## FEATURES
 
  - Creating a **bank account**. To be able to make many money transactions with that bank account.
  - Creating special **cash cheques**.
@@ -36,9 +34,9 @@
  - [x] Developable systems
  - [x] A lot of money earning options.
  - [x] Fill-run logic.
- - [ ] Possibility of getting a bug.
+ - [x] Possibility of getting a bug.
 
-## Settings
+## SETTINGS
 
 >     {
 >     "botSettings": {
@@ -53,9 +51,108 @@
 >     }
 >     }
 
-## Setup
+## SETUP
 1. You must have `node.js` installed on your system.
 2. Open the directory you are in with the help of CMD or Powershell.
 3. Install all modules. (`npm i`)
 4. Edit the contents of `settings.json` and `emojis.json`.
 5. Hurray! You are now ready.
+
+# POLSKIE
+> Wiem, że mówię świetnym polski hehe. Prawdopodobnie byłem pijany podczas tworzenia tej infrastruktury. W niektórych miejscach mogłem popełnić ogromne błędy. Możesz wysłać mi żądanie PR, aby to naprawić. Mam nadzieję, że zbudowałem przydatną infrastrukturę. Jest w nim wiele poleceń. W tym samym czasie stworzyłem tę infrastrukturę specjalnie dla **[Serendia Squad](https://discord.gg/K44EZWA4kQ)**. Możesz przyjść i zadać mi pytanie, jeśli chcesz.Niestety, na razie nie mamy zbyt wielu społeczności mówiących w polsku. Ale to nie znaczy, że się nie zmieni, prawda? Miłego dnia!
+
+## SPECYFIKACJA
+- Utworzenie **konta bankowego**. Aby móc dokonywać wielu transakcji pieniężnych za pomocą tego konta bankowego.
+- Tworzenie **specjalnych czeków** gotówkowych.
+- System **dziennych wynagrodzeń**.
+- Szybki system wysyłania pieniędzy **bez błędów**.
+- Zaawansowane **polecenie pomocy**.
+- Zaawansowany **system małżeński**.
+- **Tworzenie firmy**, zapraszanie i wyrzucanie członków.
+- Zawód **nakazuje zarabiać** więcej pieniędzy.
+- Pięć **gier hazardowych**. (`Slots, Drop Game, Hands Up!, Coinflip, Lottery`)
+- Zaawansowany **system inwentaryzacji**.
+- Zaawansowany **system marketplace**.
+
+### Zalety i Wady
+
+ - [x] Używa MongoDB (Mongosha)
+ - [x] Przyjazny użytkownikowi.
+ - [ ] System botów wieloserwerowych (publicznych).
+ - [ ] Oficjalny moduł MongoDB.
+ - [x] Szybkie i czytelne systemy.
+ - [x] Rozwijalne systemy
+ - [x] Wiele opcji zarabiania pieniędzy.
+ - [x] Logika uruchamiania.
+ - [x] Możliwość uzyskania błędu.
+
+##   USTAWIENIA
+>     {
+>     "botSettings": {
+>     "token": "", // Żeton bota.
+>     "owners": [
+>     "" // ID właściciela.
+>     ],
+>     "prefix": "", // Prefiks
+>     "botStatus": "", // Status
+>     "botVoiceChannelID": "", // ID kanału głosowego
+>     "mongoURL": "" // Łącze Mongo Connect
+>     }
+>     }
+
+## USTAWIAĆ
+
+ 1. W systemie musi być zainstalowany `node.js`.
+2. Otwórz katalog, w którym się znajdujesz, za pomocą CMD lub Powershell.
+3. Zainstaluj wszystkie moduły. (`npm i`)
+4. Edytuj zawartość `settings.json` i `emojis.json`.
+5. Hurra! Jesteś teraz gotowy.
+
+# TÜRKÇE
+> Selam hoş geldin ben Sude ALAÇATI. Bu altyapıyı yaparken oldukça eğlendim. Bir çok hata aldım ve siz de alacaksınız. Bu hataların çözümlerini bulmak için ilk önce **çaba gösterin** daha sonra bizden yardım isteyebilirsiniz. Bu altyapı **[Serendia Squad](https://discord.gg/K44EZWA4kQ)** için özel olarak yazılmıştır. Yardımcı olan bir çok kişiye teşekkür ediyorum.
+
+## ÖZELLİKLER
+- **Banka hesabı** yaratabilirsin.
+- Özel **para çekleri** oluşturup onları arkadaşlarına verebilirsin.
+- **Günlük maaş** sistemi ile para kazanabilirsin.
+- **Hızlı ve güvenilir para gönderme sistemi** ile paranı başka oyuncuya gönderebilirsin.
+- Gelişmiş **yardım** komutu.
+- Gelişmiş **evlilik** komutu.
+- **Şirket oluşturabilirsin**, üyeleri davet edip onları atabilirsin.
+- **Farklı meslekler ile para kazanma seçenekleri** mevcuttur.
+- **Beş adet** kumar oyunu bulunur.
+- Gelişmiş **envanter** sistemi.
+- Gelişmiş **market** sistemi.
+### Avantajlar - Dezavantajlar
+ - [x] MongoDB Kullanıyor. (Mongosha)
+ - [x] Kullanıcı dostu.
+ - [ ] Çoklu sunucu botu özelliği.
+ - [ ] Orijinal MongoDB Modülü.
+ - [x] Hızlı ve okunaklı sistemler.
+ - [x] Geliştirilebilir sistemler.
+ - [x] Bir çok para kazanma sistemi.
+ - [x] Doldur ve çalıştır mantığı.
+ - [x] Bir hata ile karşılaşma olasılığı.
+
+## AYARLAR
+>     {
+>     "botSettings": {
+>     "token": "", // Bot tokeniniz.
+>     "owners": [
+>     "" // Kurucu ID'leri.
+>     ],
+>     "prefix": "", // Ön ek.
+>     "botStatus": "", // Botun durumu.
+>     "botVoiceChannelID": "", // Sesli kanal bağlantı linki.
+>     "mongoURL": "" // MongoDB Bağlantı linki.
+>     }
+>     }
+
+## KURULUM
+1. Sisteminde `node.js` kurulu olmak zorundadır.
+2. Botun kök dosyasını CMD veya Powershell ile aç.
+3. Bütün modülleri yükle. (`npm i`)
+4. `Settings.json` dosyasını düzenle.
+5. Hayda! Artık hazırsın.
+
+

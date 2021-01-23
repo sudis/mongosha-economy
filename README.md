@@ -22,7 +22,7 @@
 ### Emojiler Hakkında!
 > Emojilerin **hepsi ücretli ve kıymetli** olduğu için paylaşma hakkım bulunmamakta. Maalesef `emojis.json` dosyasını **kendi emojileriniz** ile doldurmak zorundasınız. 
 
-# ENGLISH
+# 🇺🇸 ENGLISH
 > Hello! I am Sude ALAÇATI.  I have developed this infrastructure specifically for **[Serendia Squad](https://discord.gg/K44EZWA4kQ)** for your use. Many errors may occur in the infrastructure. Please don't hesitate to let me know about them. Our Infrastructure Uses MongoDB. 
 
 ## FEATURES
@@ -71,7 +71,7 @@
 4. Edit the contents of `settings.json` and `emojis.json`.
 5. Hurray! You are now ready.
 
-# POLSKIE
+# 🇵🇱 POLSKI
 > Wiem, że mówię świetnym polski hehe. Prawdopodobnie byłem pijany podczas tworzenia tej infrastruktury. W niektórych miejscach mogłem popełnić ogromne błędy. Możesz wysłać mi żądanie PR, aby to naprawić. Mam nadzieję, że zbudowałem przydatną infrastrukturę. Jest w nim wiele poleceń. W tym samym czasie stworzyłem tę infrastrukturę specjalnie dla **[Serendia Squad](https://discord.gg/K44EZWA4kQ)**. Możesz przyjść i zadać mi pytanie, jeśli chcesz.Niestety, na razie nie mamy zbyt wielu społeczności mówiących w polsku. Ale to nie znaczy, że się nie zmieni, prawda? Miłego dnia!
 
 ## SPECYFIKACJA
@@ -121,7 +121,7 @@
 4. Edytuj zawartość `settings.json` i `emojis.json`.
 5. Hurra! Jesteś teraz gotowy.
 
-# TÜRKÇE
+# 🇹🇷 TÜRKÇE
 > Selam hoş geldin ben Sude ALAÇATI. Bu altyapıyı yaparken oldukça eğlendim. Bir çok hata aldım ve siz de alacaksınız. Bu hataların çözümlerini bulmak için ilk önce **çaba gösterin** daha sonra bizden yardım isteyebilirsiniz. Bu altyapı **[Serendia Squad](https://discord.gg/K44EZWA4kQ)** için özel olarak yazılmıştır. Yardımcı olan bir çok kişiye teşekkür ediyorum.
 
 ## ÖZELLİKLER

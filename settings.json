@@ -1,0 +1,12 @@
+{
+    "botSettings": {
+        "token": "",
+        "owners": [
+            ""
+        ],
+        "prefix": "",
+        "botStatus": "",
+        "botVoiceChannelID": "",
+        "mongoURL": ""
+    }
+}

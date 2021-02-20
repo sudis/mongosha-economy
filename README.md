@@ -1,6 +1,6 @@
 ![SERENDIA SQUAD](https://cdn.discordapp.com/attachments/691691230106615901/776849806567538748/standard_11.gif)
 
-### Special thanks to `Enis#1648`
+### Special thanks to `Enis#0333`
 
 ## DISCLAIMER
 > **I don't care what you do**. Lie to people, whether you buy the project somewhere or buy it, it's my project. People who do this already know from the inside out that they don't do it themselves. This project was made by me. Thank you to many people who helped. If you want to support me, you can **star** this project. I used English in many places except the contents of the commands. Therefore, you will not have trouble reading. I am **not** a very knowledgeable person. This is the best I can do, you may find a lot of bugs or face a lot of trouble. Don't be afraid to let me know about them. This infrastructure has been specially manufactured for **[Serendia Squad](https://discord.gg/K44EZWA4kQ)**. Stay healthy!
